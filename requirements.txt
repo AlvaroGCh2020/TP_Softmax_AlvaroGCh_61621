@@ -1,0 +1,13 @@
+# Dependencias directas del notebook y JupyterLab.
+# Para repetir las versiones utilizadas, seguir README.md y el lock.
+torch
+numpy
+matplotlib
+scikit-learn
+nltk
+tensorboard
+mlflow
+optuna
+pandas
+ipykernel
+jupyterlab

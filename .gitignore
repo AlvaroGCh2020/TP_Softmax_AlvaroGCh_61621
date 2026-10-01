@@ -1,0 +1,7 @@
+# Solo estos cinco archivos forman parte de la entrega.
+*
+!.gitignore
+!README.md
+!RESUELTO_Softmax.ipynb
+!requirements.txt
+!requirements-lock.txt
